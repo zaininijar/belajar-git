@@ -5,6 +5,6 @@
         echo $message;
     }
 
-    alert("Telah di ubah dari VSCode");
+    alert("Update on VSCode");
 
 ?>
