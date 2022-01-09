@@ -5,6 +5,6 @@
         echo $message;
     }
 
-    alert("Welcome to index.php");
+    alert("Telah di ubah dari github");
 
 ?>
