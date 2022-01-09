@@ -5,6 +5,6 @@
         echo $message;
     }
 
-    alert("Update on VSCode");
+    alert("Update on VSCode lagi");
 
 ?>
