@@ -5,6 +5,6 @@
         echo $message;
     }
 
-    alert("Telah di ubah dari github");
+    alert("Telah di ubah dari VSCode");
 
 ?>
